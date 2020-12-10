@@ -1,5 +1,5 @@
 # ZAlign by Zuehlke Engineering - Toolkit for LabVIEW
-## ZAlign allows the the auomatic placement of Front Panel Elements
+## ZAlign allows the the automatic re-arrangement of Front Panel Elements
 ### Overview:
 
 ![Example of ZAlign](https://github.com/Zuehlke/ZAlign/blob/main/ZAlign/ZAlign.jpg)
