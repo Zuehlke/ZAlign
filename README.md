@@ -1,4 +1,4 @@
-# ZAlign by Zuehlke Engineering - Toolkit for LabVIEW
+# ZAlign by Zuehlke Engineering - QuickDrop PlugIn for LabVIEW
 ## ZAlign allows the the automatic re-arrangement of Front Panel Elements
 ### Overview:
 
