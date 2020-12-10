@@ -23,3 +23,7 @@ Key commands to run ZAlign:
 There is also the extended mode for GUI front panels. In this case the elements must be selected which
 should be aligned. The controls are then arranged in the upper left quadrant. Everything else remains
 unchanged at its position.
+
+### Short notice
+
+Although it should work out of the box, the latest release has only been tested on Windows 7 and 10, not on Linux or Mac
